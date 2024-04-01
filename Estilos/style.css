@@ -1,0 +1,146 @@
+
+body {
+    background-color:rgb(202, 163, 112);
+    margin-bottom: auto;
+    
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    font-style: italic;
+    
+}
+
+/* inicio */
+.moe{
+    width: 350px;
+    padding: 20px;
+    padding-left: 50px;
+    margin: 30PX;
+}
+#taberna{
+    width: 100%;
+    height: 800px;
+    margin-top: 5px;
+}
+
+.charla{
+    font-size: 15px;
+    font-family: cursive; 
+    margin-top: 70px;
+}
+
+.cambiodepagina{
+    font-size: 25px;
+    color: rgb(134, 39, 82);
+}
+.cambiodepagina nav {
+display: flex;
+}
+
+#ESPECIAL{
+    font-size: 40px;
+    font-style: italic;
+    text-align: center;
+    margin: 20px;
+}
+
+footer a{
+    width: 20px;
+}
+
+footer p{
+    font-size: 20px;
+    padding: 5px;
+}
+
+.head{
+    background-color: rgb(150, 108, 62);
+    display: flex;
+    justify-content: space-around;
+}
+.H1{
+    font-size: 50px;
+    font-family: sans-serif;
+    font-style: italic;
+}
+/* shows */
+.stones{
+    width: auto;
+    height: 300px;
+    
+}
+
+/* contactos */
+.iconos{
+    display: flex;
+align-content: space-around;
+margin: 50px;
+margin-left: 10px;
+width: auto;
+height: 200px;
+}
+
+.horarios{
+    background-color: rgb(150, 108, 62);
+    padding-left: 100%;
+    padding-right: 100%;
+    padding: 80px;
+    display: list-item;
+    justify-content: space-around;
+}
+.horarios ul li{
+    display: inline-flex;
+    justify-content: space-around;
+    padding-inline: 10px;
+}
+
+/* fotos */
+.pic{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.duff1{
+    width: 400px;
+}
+
+/* ubicanos */
+.mapa{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+    /* padding-left: 100%;
+    padding-right: 100%; */
+  padding-left: 0px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  
+}
+
+.footer{
+    background-color: rgb(150, 108, 62); 
+    /* margin-left: 100%;
+    margin-right: 100%; */
+    padding-left: 100%;
+    padding-right: 100%;
+  padding: 60px;
+  padding-bottom: auto;
+
+}
+.h{
+    align-items: center;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+.dias{
+    padding-right: 150px;
+}
+
+
