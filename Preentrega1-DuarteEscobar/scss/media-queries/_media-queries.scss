@@ -1,0 +1,31 @@
+
+
+@media only screen and (max-width: 425px){
+
+    .dias{
+        padding-right: 100%;
+    }
+span{
+display: list-item;
+}
+
+.spam{
+    display: list-item;
+    justify-content: start;
+}
+}
+
+@media only screen and (max-width: 768px){
+    .h{
+        margin: auto;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    display: list-item;
+    list-style: none;    
+    }
+    .ancho{
+        width: 200px;
+        padding-left: 0px;
+    }
+    
+}
